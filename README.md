@@ -1,10 +1,25 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
+The objective of this exercise was to make an Instagram-style image feed, the knowledge
+applied for the same child:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
+-Display and Position CSS rules.
+-Build a layout with CSS/HTML.
+-Reuse CSS classes
+-Center containers.
+-Flow left and right.
+-Import images.
 
-The most basic boilerplate for any 4Geeks Academy student using the [gitpod.io](gitpod.io) coding editor.
+Each of the areas is divided into <div> to get control over the containers,
+in this way the content within them will be individual, allowing their versatility by
+time to apply the corresponding css properties. Dividing each area we apply the
+properties to build a layout of the positions they will occupy
+each <div> in our visual space, finally the content that will occupy each <div> is added
+in which the tags <h1>, <p>, <img>, etc. will be reflected.
 
-[![How to open html/css preview of my project in gitpod](https://github.com/4GeeksAcademy/Templates-Boilerplates/blob/master/assets/hello-html-intro.png?raw=true)](https://youtu.be/dfbDCMu_p-0)
+Recommended websites for icon themes, images and tools:
+
+-https://getbootstrap.com/
+-https://fontawesome.com/
+-https://www.pexels.com/es-es/
 
 ## What to do next?
 
