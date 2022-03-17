@@ -1,16 +1,15 @@
-##Simple-instagram-photo-feed-with-HTML-CSS 
+## Simple-instagram-photo-feed-with-HTML-CSS 
 
 The objective of this exercise was to make an Instagram-style image feed, the knowledge
 applied for it are:
-```
--Display and Position CSS rules.
--Build a layout with CSS/HTML.
--Reuse CSS classes
--Center containers.
--Flow left and right.
--Import images.
 
-```
+* Display and Position CSS rules.
+* Build a layout with CSS/HTML.
+* Reuse CSS classes
+* Center containers.
+* Flow left and right.
+* Import images.
+
 Each of the areas is divided into `<div>` to get control over the containers,
 in this way the content within them will be individual allowing their versatility by
 time to apply the corresponding css properties. Dividing each area we apply the
