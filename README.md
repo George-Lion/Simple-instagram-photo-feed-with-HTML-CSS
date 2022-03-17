@@ -1,5 +1,5 @@
 The objective of this exercise was to make an Instagram-style image feed, the knowledge
-applied for the same child:
+applied for it are:
 
 -Display and Position CSS rules.
 -Build a layout with CSS/HTML.
@@ -9,16 +9,18 @@ applied for the same child:
 -Import images.
 
 Each of the areas is divided into <div> to get control over the containers,
-in this way the content within them will be individual, allowing their versatility by
+in this way the content within them will be individual allowing their versatility by
 time to apply the corresponding css properties. Dividing each area we apply the
-properties to build a layout of the positions they will occupy
-each <div> in our visual space, finally the content that will occupy each <div> is added
-in which the tags <h1>, <p>, <img>, etc. will be reflected.
+properties to build a layout of the positions that each <div> will occupy
+in our visual space, finally, we add the content that will occupy each <div>
+in which the tags <h1>, <p>, <img>, etc.
 
-Recommended websites for icon themes, images and tools:
+Recommended websites for theme icons, images and tools:
 
 -https://getbootstrap.com/
+
 -https://fontawesome.com/
+
 -https://www.pexels.com/es-es/
 
 ## What to do next?
