@@ -1,29 +1,27 @@
-## Simple-instagram-photo-feed-with-HTML-CSS 
+## Simple-Instagram-photo-feed-with-HTML-CSS
 
-En este ejercicio replicamos una interfas de Instagram, la idea principal es utilizar la mayor cantidad de utilidades de bootstrap, entre ellas estan:
+The `div` element is a generic container with no particular semantic meaning.
+It is commonly used in document development for stylistic purposes, in
+set with the `style` and `class` attributes.
 
-* Navbar.
-* Navs & Tabs.
-* Card.
-* Pills.
-* Modal.
-* Buttons.
-* Buttons.
-
-Each of the areas is divided into `<div>` to get control over the containers,
-in this way the content within them will be individual allowing their versatility by
-time to apply the corresponding css properties. Dividing each area we apply the
-properties to build a layout of the positions that each `<div>` will occupy
-in our visual space, finally, we add the content that will occupy each `<div>`
-in which the tags `<h1>`, `<p>`, `<img>`, etc.
+To perform this exercise we mainly split each area into `<div>` to have
+control over the containers, these are divided in the upper part of our
+web for the main title. Then in the post a head that contains the title 
+and thepost counter, body for the image to be displayed and footer for 
+the bottomof the text. Using the css properties `Display:Flex` and 
+`Justify'content` we have better control over the layout of inline 
+elements, like tips it's good to leave a defined width and height 
+on each `<div>` container to apply abetter margin control.
 
 Recommended websites for theme icons, images and tools:
 
-[-Bootstrap Pages](https://getbootstrap.com/).
+[-Google Fonts](https://fonts.google.com/).
 
-[-Fontawesome Pages](https://fontawesome.com/).
+[-Fontawesome Pages] (https://fontawesome.com/).
 
 [-Pexel Pages](https://www.pexels.com/es-es/).
+
+----------------------------------------------------------------------------------------------------------------
 
 ## What to do next?
 
