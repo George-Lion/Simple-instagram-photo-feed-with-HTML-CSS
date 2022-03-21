@@ -1,14 +1,14 @@
 ## Simple-instagram-photo-feed-with-HTML-CSS 
 
-The objective of this exercise was to make an Instagram-style image feed, the knowledge
-applied for it are:
+En este ejercicio replicamos una interfas de Instagram, la idea principal es utilizar la mayor cantidad de utilidades de bootstrap, entre ellas estan:
 
-* Display and Position CSS rules.
-* Build a layout with CSS/HTML.
-* Reuse CSS classes
-* Center containers.
-* Flow left and right.
-* Import images.
+* Navbar.
+* Navs & Tabs.
+* Card.
+* Pills.
+* Modal.
+* Buttons.
+* Buttons.
 
 Each of the areas is divided into `<div>` to get control over the containers,
 in this way the content within them will be individual allowing their versatility by
