@@ -9,7 +9,7 @@ control over the containers, these are divided in the upper part of our
 web for the main title. Then in the post a head that contains the title 
 and thepost counter, body for the image to be displayed and footer for 
 the bottomof the text. Using the css properties `Display:Flex` and 
-`Justify'content` we have better control over the layout of inline 
+`Justify-content` we have better control over the layout of inline 
 elements, like tips it's good to leave a defined width and height 
 on each `<div>` container to apply abetter margin control.
 
@@ -17,9 +17,9 @@ Recommended websites for theme icons, images and tools:
 
 [-Google Fonts](https://fonts.google.com/).
 
-[-Fontawesome Pages] (https://fontawesome.com/).
+[-Fontawesome](https://fontawesome.com/).
 
-[-Pexel Pages](https://www.pexels.com/es-es/).
+[-Pexel](https://www.pexels.com/es-es/).
 
 ----------------------------------------------------------------------------------------------------------------
 
